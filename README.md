@@ -1,4 +1,4 @@
 # Recriando-o-jogo-da-cobrinha-com-JavaScript
 Digital Innovation
 
-Acompanhando a tutora
+A atividade é realizada acompanhando a tutora
