@@ -89,24 +89,3 @@ function iniciarJogo() {
 }
 
 let jogo = setInterval(iniciarJogo, 100);
-
-// var activities = document.getElementById("dificuldade");
-// activities.addEventListener("change", function() {
-//     let dificuldade = activities.options[activities.selectedIndex].value;
-//     if (dificuldade == "facil") {
-//         clearInterval(jogo);
-//         jogo = setInterval(iniciarJogo, 150);
-//         console.log(dificuldade);
-//         console.log(jogo);
-//     }else if (dificuldade == "normal") {
-//         clearInterval(jogo);
-//         jogo = setInterval(iniciarJogo, 100);
-//         console.log(dificuldade);
-//         console.log(jogo);
-//     }else{
-//         clearInterval(jogo);
-//         jogo = setInterval(iniciarJogo, 50);
-//         console.log(dificuldade);
-//         console.log(jogo);
-//     }
-// }) 
